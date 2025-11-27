@@ -1,6 +1,6 @@
 package estruturas.naolineares.dinamicas.arvorebinariabusca;
 
-public abstract class ArvoreBinariaBusca<T extends Comparable<T>>
+public  class ArvoreBinariaBusca<T extends Comparable<T>>
         extends ArvoreBinariaSimples<T>
         implements IArvoreBinariaBusca<T> {
 

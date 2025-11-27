@@ -8,16 +8,12 @@ public class ArvoreBinariaBuscaComDuplicatas<T extends Comparable<T>> extends Ar
     }
 
     public int contarOcorrencias(T dado) {
-        return 0;
+        //Implemente a contagem recursiva de ocorrências
     }
 
     @Override
     protected boolean validarArvoreBinariaBusca(INoArvoreBinaria<T> no, T minimo, T maximo) {
-        return false;
+        //Refatore para a validação da nova regra de duplicatas
     }
 
-    @Override
-    public boolean estaVazia() {
-        return super.estaVazia();
-    }
 }
