@@ -1,4 +1,4 @@
-package estruturas.naolineares.dinamicas.arvorebinaria;
+package estruturas.naolineares.dinamicas.arvorebinariabusca;
 
 public class NoArvoreBinaria<T> implements INoArvoreBinaria<T> {
 

@@ -1,4 +1,4 @@
-package estruturas.naolineares.dinamicas.arvorebinaria;
+package estruturas.naolineares.dinamicas.arvorebinariabusca;
 
 import java.util.function.Consumer;
 import java.util.Queue;
